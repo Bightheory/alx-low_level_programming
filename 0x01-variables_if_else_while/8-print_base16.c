@@ -11,7 +11,7 @@ int main(void)
 	int i;
 	char j;
 
-	for (i = 0; num < 16; i++)
+	for (i = 0; i < 16; i++)
 	{
 		putchar((i % 10) + '0');
 	}
