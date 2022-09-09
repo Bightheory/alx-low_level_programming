@@ -1,5 +1,10 @@
 #include<stdio.h>
-/** Description for main function */
+/**
+ * main - Function starts
+ *
+ * Return: Function closes
+ */
+
 int main(void)
 
 {
