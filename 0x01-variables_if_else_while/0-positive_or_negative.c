@@ -3,9 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
- *
- * return: Always 0(success)
+ * Main - returns value for n
+ * return: Always (success)
  */
 int main(void)
 {
