@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- * Main - returns value for n
- * return: Always (success)
+ * main - Entry point
+ *
+ * Return: Always 0 (Success/correct)
  */
 int main(void)
 {
