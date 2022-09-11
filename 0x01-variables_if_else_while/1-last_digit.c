@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - entry point.
- * Description: Prints the last digit of the number stored in the variable n.
+ * main - Determines either greater than 5, is less than  or is 0
+ *
  * return: Always 0(success)
  */
 int main(void)
