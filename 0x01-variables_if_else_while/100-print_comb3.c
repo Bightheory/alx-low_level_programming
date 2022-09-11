@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints all possible combinations of two different digits
+ * main - Prints numbers between 00 to 89.
  *
  *
  * return: Always 0(success)
