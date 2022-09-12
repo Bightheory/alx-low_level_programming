@@ -5,7 +5,7 @@
 /**
  * main - Determines either greater than 5, is less than  or is 0
  *
- * return: Always 0(success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
