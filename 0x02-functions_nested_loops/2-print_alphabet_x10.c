@@ -5,11 +5,7 @@
  * Return: x10 a-z
  */
 
-int main(void)
-{
-	print_alphabet_x10();
-	return (0);
-}
+void print_alphabet_x10(void)
 {
 	int n, co;
 
@@ -19,9 +15,9 @@ int main(void)
 	{
 		for (n = 'a'; n <= 'z'; n++)
 		{
-			_putchar(n);
+			putchar(n);
 		}
 		co++;
-		_putchar('\n');
+		putchar('\n');
 	}
 }
