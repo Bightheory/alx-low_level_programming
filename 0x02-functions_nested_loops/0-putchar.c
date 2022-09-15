@@ -5,17 +5,16 @@
  *
  * Return: Always 0(success)
  */
-int putchar();
-
 int main(void)
 {
-	char *putc[] = "_putchar";
+	char *sh = "_putchar";
 
-	while (*putc)
+	while (*sh)
 	{
-		putchar(*putc);
+		_putchar(*sh);
+		sh++;
 	}
 
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
