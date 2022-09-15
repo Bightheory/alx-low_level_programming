@@ -9,7 +9,7 @@ void print_diagonal(int n)
 {
 	int i = 1;
 
-	while (i >= n)
+	while (i <= n)
 	{
 		_putchar(92);
 		i++;
