@@ -2,7 +2,7 @@
 
 /**
   * print_most_numbers - prints numbers from 0 to 9 and new line
-  * @i: variable 
+  * 
   */
 
 void print_most_numbers(void)
