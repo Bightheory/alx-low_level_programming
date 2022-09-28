@@ -1,3 +1,5 @@
+int is_palindrome(char *s);
+int p1(char *s, int l);
 int _evaluate(int i, int n);
 char _putchar (char);
 void _puts_recursion(char *s);
