@@ -29,7 +29,7 @@ int _evaluate(int i, int n)
 
 int _sqrt_recursion(int n)
 {
-	int i = o;
+	int i = 0;
 
 	if (i < 0)
 		return (-1);
