@@ -8,6 +8,7 @@
 
 int main(int argc, char *argv[])
 {
+	(void) argc;
 	char name[] = "./mynameis";
 	
 	printf("%s\n", name);  
