@@ -9,12 +9,7 @@
 int main(int argc, char *argv[])
 {
 	char name[] = "./mynameis";
-	int i;
-
-
-	for (i = 0; i > 0; i++)
-	{
-		printf("%s\n", name);
-	}
+	
+	printf("%s\n", name);  
 	return (0);
 }
