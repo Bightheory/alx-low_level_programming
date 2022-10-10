@@ -16,3 +16,6 @@ struct dog
 };
 
 typedef struct dog dog_h;
+
+
+#endif
